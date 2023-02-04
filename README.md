@@ -6,7 +6,7 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-MIgue%20Camacho -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-camacho08/)](https://www.linkedin.com/in/miguel-camacho08/)
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Camacho -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-camacho08/)](https://www.linkedin.com/in/miguel-camacho08/)
 [![Medium Badge](https://img.shields.io/badge/Miguel%20Camacho-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@miguel-camacho)](https://medium.com/@miguel-camacho)
 [![Gmail Badge](https://img.shields.io/badge/-nonickyno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nonickyno@gail.com)](mailto:nonickyno@gmail.com)
 

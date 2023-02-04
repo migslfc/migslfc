@@ -1,7 +1,7 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Miguel Camacho and my friends call me Migs. I'm currently a Project Accountant but over the next 24 week I will be working on becoming a Cloud Engineer. Outside of work and studies I enjoy writing, mixing and producing home music recordings, going to live comedy and music shows, and makin craft cocktails for friends. You can follow my journey here https://medium.com/@miguel-camacho</h1>
-<h3 align="center">Cloud Engineer transitioning from Accounting</h3>
+<h3 align="center">Hi 👋, I'm Miguel Camacho and my friends call me Migs. I'm currently a Project Accountant but over the next 24 week I will be working on becoming a Cloud Engineer. Outside of work and studies I enjoy writing, mixing and producing home music recordings, going to live comedy and music shows, and makin craft cocktails for friends.</h3>
+<h5 align="center">Cloud Engineer transitioning from Accounting</h5>
 
 
 Find out more about me & feel free to connect with me here:
@@ -24,7 +24,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=migslfc](https://github.com/anuraghazra/github-readme-stats))
+![Github Stats](https://github-readme-stats.vercel.app/api?username=migslfc](https://github.com/migslfc/github-readme-stats))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migslfc&hide=TeX&layout=compact)
 
 

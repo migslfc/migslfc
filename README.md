@@ -6,9 +6,11 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-MIGUEL CAMACHO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-camacho08/)](https://www.linkedin.com/in/miguel-camacho08/)
+[![Linkedin Badge](https://img.shields.io/badge/-MIgue%20Camacho -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-camacho08/)](https://www.linkedin.com/in/miguel-camacho08/)
 [![Medium Badge](https://img.shields.io/badge/Miguel%20Camacho-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@miguel-camacho)](https://medium.com/@miguel-camacho)
-![Gmail Badge](https://img.shields.io/badge/-Miguel Camacho-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<nonickyno@gmail.com>)](mailto:nonickyno@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nonickyno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nonickyno@gail.com)](mailto:nonickyno@gmail.com)
+
+
 
 ## ⚡ Technologies
 
@@ -24,9 +26,9 @@ Find out more about me & feel free to connect with me here:
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=<migslfc>&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<migslfc>&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=migslfc&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migslfc&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<migslfc>%2F<migslfc>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<migslfc>%2F<migslfc>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<migslfc>%2Fmigslfc&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=migslfc%2Fmigslfc)
 

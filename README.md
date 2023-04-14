@@ -1,6 +1,6 @@
 ###
 
-<h3 align="center">Hi 👋, I'm Miguel Camacho and my friends call me Migs. I'm currently a Project Accountant but over the next 24 weeks I will be working on becoming a Cloud Engineer. Outside of work and studies I enjoy writing, mixing and producing home music recordings, going to live comedy and music shows, and makin craft cocktails for friends.</h3>
+<h3 align="center">Hi 👋, I'm Miguel Camacho and my friends call me Migs. I'm currently a Project Accountant but over the next 24 weeks I will be working on becoming a Cloud Engineer. Outside of work and studies I enjoy writing, mixing and producing home music recordings, going to live comedy and music shows, and making craft cocktails for friends.</h3>
 <h5 align="center">Cloud Engineer transitioning from Accounting</h5>
 
 
